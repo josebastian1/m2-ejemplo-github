@@ -1,0 +1,6 @@
+1.- git init  = inicializa un repositorio local (se ejecuta la primera vez)
+2.- git add . = agregamos cualquier archivo nuevo al area de preparación
+3.- git status = opcional verificamos si los cambios estan ok.
+4.- git rm --cached apuntes.txt = ejecutar si necesitamos quitar algo del area de preparacion
+5.- git log  
+5.- 
